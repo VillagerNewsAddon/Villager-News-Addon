@@ -1,0 +1,2 @@
+/* rev-b7e4d1-20260915 */
+v1.0 official add-on, 2000 voices, gossip, 1.21.120
